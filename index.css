@@ -255,9 +255,9 @@
   .project-grid{
     grid-gap: 4.5vw;
   }
-  .project-tile{
+/*   .project-tile{
     padding: 5px;
-  }
+  } */
   @media (prefers-reduced-motion: no-preference) {
     * {
       scroll-behavior: smooth;
