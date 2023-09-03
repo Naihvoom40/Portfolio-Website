@@ -253,8 +253,10 @@
     font-size: 10vw !important;
   }
   .project-grid{
-    grid-gap: 4vw;
+    grid-gap: 4.5vw;
   }
+  .project-tile{
+    padding: 5px;
   }
   @media (prefers-reduced-motion: no-preference) {
     * {
